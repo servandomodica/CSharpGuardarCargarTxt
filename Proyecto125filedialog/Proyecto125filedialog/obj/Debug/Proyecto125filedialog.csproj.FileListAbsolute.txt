@@ -1,0 +1,10 @@
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto125filedialog\Proyecto125filedialog\bin\Debug\Proyecto125filedialog.exe.config
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto125filedialog\Proyecto125filedialog\bin\Debug\Proyecto125filedialog.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto125filedialog\Proyecto125filedialog\bin\Debug\Proyecto125filedialog.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto125filedialog\Proyecto125filedialog\obj\Debug\Proyecto125filedialog.Form1.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto125filedialog\Proyecto125filedialog\obj\Debug\Proyecto125filedialog.Properties.Resources.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto125filedialog\Proyecto125filedialog\obj\Debug\Proyecto125filedialog.csproj.GenerateResource.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto125filedialog\Proyecto125filedialog\obj\Debug\Proyecto125filedialog.csproj.CoreCompileInputs.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto125filedialog\Proyecto125filedialog\obj\Debug\Proyecto125filedialog.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto125filedialog\Proyecto125filedialog\obj\Debug\Proyecto125filedialog.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto125filedialog\Proyecto125filedialog\obj\Debug\Proyecto125filedialog.csprojAssemblyReference.cache
